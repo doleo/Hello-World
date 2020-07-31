@@ -14,3 +14,5 @@ def dev(a,b):
 
 print("a+b = ",add(3,2))
 print("a/b = ",dev(3,2))
+print("a*b = ",dev(3,2))
+
